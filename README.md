@@ -160,7 +160,7 @@ http://localhost:3000/api-docs
 
 📸 Swagger Preview
 
-"Swagger Screenshot" (./assets/swagger.png)
+![Swagger Screenshot](./assets/swagger.png)
 
 ---
 
