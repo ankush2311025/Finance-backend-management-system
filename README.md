@@ -166,7 +166,7 @@ http://localhost:3000/api-docs
 
 🧪 API Testing
 
-- Tested using Postman
+- Tested using Postman (Postman Documentation :- https://documenter.getpostman.com/view/39337258/2sBXiqFUvT)
 - JWT-based secured endpoints
 
 ---
